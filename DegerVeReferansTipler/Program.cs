@@ -21,8 +21,8 @@ namespace DegerVeReferansTipler
             sayilar2[0] = 999;
             //sayilar1[0] = 999      //heap
 
-            //int, decimal, float, double, bool = değer tip
-            //array, class, interface = referans tip
+            //int, decimal, float, double, bool = değer tip = value types
+            //array, class, interface = referans tip = reference types
 
         }
 }
